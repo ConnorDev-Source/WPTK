@@ -4,14 +4,14 @@
 ### It is a PC fix script (Like Tron script) It could take 10 minutes.
 ---
 >## Features
-- CCleaner
-- DISM
-- Sophos
-- SFC
-- Chkdsk
-- Clean Manager
-- Deleting Temp Files
-- More coming soon!
+- ### CCleaner
+- ### DISM
+- ### Sophos
+- ### SFC
+- ### Chkdsk
+- ### Clean Manager
+- ### Deleting Temp Files
+- ### More coming soon!
 ---
 >## How To Install
 ### Download it from here [Download](http://www.mediafire.com/file/d6a602kjqrra1zy/WindowsPowerToolkit.rar/file "WPTK")
